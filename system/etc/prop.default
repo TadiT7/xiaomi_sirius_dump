@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Aug 9 00:25:50 CST 2018
+ro.bootimage.build.date.utc=1533745550
+ro.bootimage.build.fingerprint=Xiaomi/sirius/sirius:8.1.0/OPM1.171019.019/8.8.9:user/release-keys
+persist.sys.usb.config=none
+
